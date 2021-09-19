@@ -20,3 +20,20 @@ When using pylint, unnecessary torch and numpy warnings appear. To avoid, includ
 
 
 Please take into account the style conventions in style_conventions.py
+
+If you use code from this repository please cite this paper:
+
+How Reliable Are Out-of-Distribution Generalization Methods for Medical Image Segmentation? (GCPR 2021): https://arxiv.org/abs/2109.01668
+
+Citation:
+
+```
+@article{sanner2021reliable,
+      title={How Reliable Are Out-of-Distribution Generalization Methods for Medical Image Segmentation?}, 
+      author={Antoine Sanner and Camila Gonzalez and Anirban Mukhopadhyay},
+      year={2021},
+      eprint={2109.01668},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV}
+}
+```
