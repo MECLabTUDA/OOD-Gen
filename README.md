@@ -1,4 +1,4 @@
-# medical_pytorch
+# How Reliable Are Out-of-Distribution Generalization Methods for Medical Image Segmentation?
 
 To install with Anaconda:
 0. (Create a Python3.8 environment, e.g. as conda create -n <env_name> python=3.8, and activate)
